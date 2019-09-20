@@ -1,0 +1,53 @@
+//Allyson Moore
+//Computer Science 1 - Halverson
+//Lab 3 - Keyboard Arithmetic
+//Date: 09/20/2019
+//Program get two numbers from user and computes basic mathematical functions then returns them to the user, originally through cout then through outfile
+
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+int main() {
+ 
+  /*
+  int num;
+  cout << "Please type an integer, then hit the enter key. \n"
+  cin >> num;
+  cout << "The number entered is " << num << '\n';
+
+  cout << num-2 << num-1 << num << num+1 << num+2 << '\n';
+
+  cout << num << " / 2 = " << num / 2 << '\n';
+
+  cout << "The remainder of " << num << " / 99 is " << num % 99 << '\n';
+  */
+***
+   //variables for he two numbers, sum, product, difference, quotient, remainder
+  int num1, num2, sum, prod, diff, mod;
+  double div;
+  ofstream outfile;
+
+  outfile.open("output.txt");
+//Asks user for input  
+  cout << "Please enter 2 integers, separated by a space: \n";
+  // assigns input to proper variables
+  cin >> num1 >> num2;
+  //assigns variables to proper equations
+  sum = num1 + num2;
+  diff = num1 - num2;
+  prod = num1 * num2;
+  div = num1 / (double)num2;
+  mod = num1 % num2;
+
+  //the following lines clearly lable the output values for printing to a file
+  outfile << "The sum is " << sum << '\n';
+  outfile << "The difference is " << diff << '\n';
+  outfile << "The product is " << prod << '\n';
+  outfile << "The quotient is " << div << '\n';
+  outfile << "The remainder  " << mod << '\n';
+
+  return 0;
+  ***
+}
