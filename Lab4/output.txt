@@ -1,0 +1,18 @@
+Allyson Moore 
+Computer Science I -Halverson 
+Lab 4- Formatting Output 
+This program formats the output into structured tables 
+
+           A        B        C
+******************************
+X1         5       15       25
+X10       50      150      250
+X100     500     1500     2500
+
+MONTH: March 2018
+----------------------------------
+Total Collected        $  26572.89
+Sales                  $  25068.80
+County Tax             $    501.76
+State Tax              $   1002.75
+Total Tax              $    150.13
