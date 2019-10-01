@@ -31,7 +31,8 @@ int main(){
     years = totdays/365; //calculates years
     days = totdays % 365; //mod operator gives the excess days 
 
-    outfile << min << " minutes is approximately " << years << " years and " << days << " days. \n";
+    outfile << min << " minutes is approximately " << years << " years and ";
+    outfile << days << " days. \n";
 
     count = count + 1;//iterates through loop
   }
