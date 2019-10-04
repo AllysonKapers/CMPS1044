@@ -52,10 +52,10 @@ int main() {
     //formats output 
     //(doesn't use left/right and setw because Prof. Halverson 
     // said it's not necessary in all cases)
-    outfile << "Total Purchase    $ " << price << '\n';
-    outfile << "Discount          $ " << price * discount << '\n'; 
+    outfile << "Total Purchase    $ " << setw(7) << price << '\n';
+    outfile << "Discount          $ " << setw(7) << price * discount << '\n'; 
     outfile << "---------------------------\n";
-    outfile << "New Price         $ " << price * (1-discount) << '\n';
+    outfile << "New Price         $ " << setw(7) << price * (1-discount) << '\n';
     outfile << '\n';
 
     //iterates through the loop
