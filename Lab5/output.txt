@@ -1,0 +1,30 @@
+Allyson Moore 
+Total Purchase    $ 1234.00
+Discount          $  617.00
+---------------------------
+New Price         $  617.00
+
+Total Purchase    $   48.98
+Discount          $    4.90
+---------------------------
+New Price         $   44.08
+
+Total Purchase    $  378.98
+Discount          $  113.69
+---------------------------
+New Price         $  265.29
+
+Total Purchase    $  200.00
+Discount          $   40.00
+---------------------------
+New Price         $  160.00
+
+Total Purchase    $  783.99
+Discount          $  313.60
+---------------------------
+New Price         $  470.39
+
+Total Purchase    $    2.08
+Discount          $    0.21
+---------------------------
+New Price         $    1.87
