@@ -1,0 +1,110 @@
+Student Name: Allyson Moore 
+
+Employee: 4218
+Gross Pay           $    517.20
+Federal Income Tax  $     77.58
+FICA                $     42.67
+Payroll Savings     $     25.86
+Retirement          $     25.86
+Health Insurance    $     50.00
+
+Net Pay             $    295.23
+
+
+Employee: 5478
+Gross Pay           $   1447.50
+Federal Income Tax  $    217.12
+FICA                $    119.42
+Payroll Savings     $     72.38
+Retirement          $     72.38
+Health Insurance    $     50.00
+
+Net Pay             $    916.21
+
+
+Employee: 6723
+Gross Pay           $   1039.50
+Federal Income Tax  $    155.92
+FICA                $     85.76
+Payroll Savings     $     51.98
+Retirement          $     51.98
+Health Insurance    $     50.00
+
+Net Pay             $    643.87
+
+
+Employee: 1234
+Gross Pay           $    119.50
+Federal Income Tax  $     17.93
+FICA                $      9.86
+Payroll Savings     $      5.98
+Retirement          $      5.98
+Health Insurance    $     50.00
+
+Net Pay             $     29.77
+
+
+Employee: 3567
+Gross Pay           $    249.44
+Federal Income Tax  $     37.42
+FICA                $     20.58
+Payroll Savings     $     12.47
+Retirement          $     12.47
+Health Insurance    $     50.00
+
+Net Pay             $    116.50
+
+
+Employee: 7878
+Gross Pay           $   1182.50
+Federal Income Tax  $    177.38
+FICA                $     97.56
+Payroll Savings     $     59.12
+Retirement          $     59.12
+Health Insurance    $     50.00
+
+Net Pay             $    739.32
+
+
+Employee: 5633
+Gross Pay           $    107.73
+Federal Income Tax  $     16.16
+FICA                $      8.89
+Payroll Savings     $      5.39
+Retirement          $      5.39
+Health Insurance    $     50.00
+
+Net Pay             $     21.91
+
+
+Employee: 4590
+Gross Pay           $    930.00
+Federal Income Tax  $    139.50
+FICA                $     76.73
+Payroll Savings     $     46.50
+Retirement          $     46.50
+Health Insurance    $     50.00
+
+Net Pay             $    570.77
+
+
+Employee: 8998
+Gross Pay           $    170.10
+Federal Income Tax  $     25.51
+FICA                $     14.03
+Payroll Savings     $      8.51
+Retirement          $      8.51
+Health Insurance    $     50.00
+
+Net Pay             $     63.54
+
+
+Employee: 4331
+Gross Pay           $   1310.64
+Federal Income Tax  $    196.60
+FICA                $    108.13
+Payroll Savings     $     65.53
+Retirement          $     65.53
+Health Insurance    $     50.00
+
+Net Pay             $    824.85
