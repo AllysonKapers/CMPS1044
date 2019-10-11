@@ -1,0 +1,10 @@
+Allyson Moore 
+Lab 6- Switch Statements
+1044-102 - Halverson 
+October 11, 2019 
+
+Pi times radius squared (pi * (r^2))
+Length times width (l * w)
+Pi times radius squared times height (pi * (r^2) * h)
+Well okay then... Goodbye!
+Not good with numbers, eh?
